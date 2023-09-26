@@ -29,7 +29,7 @@
 
         <table style="width: auto;">
             <tr>
-                <th colspan="5">ListKontak Orang Penting</th>
+                <th colspan="5">List Kontak Orang Penting</th>
             </tr>
 
             <tr>
